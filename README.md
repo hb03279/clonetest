@@ -1,5 +1,5 @@
 # clonetest
-test the cloning on machine
+test the cloning on machine.
 
 #abnormal changes
 making some abnormal changes to file.
